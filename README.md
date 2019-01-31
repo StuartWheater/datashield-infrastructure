@@ -340,7 +340,7 @@ different environments.
 
 ## Limitations
 
-Has only been tested using Ubuntu 14.04 and Centos 7 machines. 
+Has only been tested using Ubuntu 16.04 and Centos 7 machines. 
 
 ## Development
 
